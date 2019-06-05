@@ -3,4 +3,3 @@ kotlin
 scala
 ruby
 javascript
-c++
